@@ -8,6 +8,8 @@
 
 ## Installation
 
+`kali users (root must) || Termux users (no root)`
+
 ```
 apt install git
 ```
@@ -27,6 +29,8 @@ cd own-engine
 ```
 bash install.sh
 ```
+
+`start`
 
 ```
 own-engine
