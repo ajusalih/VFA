@@ -5,3 +5,35 @@
 <p>A search engine is a software system designed to perform web searches. They systematically search the World Wide Web for specific information specified in a textual web search query. Search results are usually presented in a series of results, often called search engine results pages.</p>
 
 `This tool helps you find all surface web information (This tool also detects social media accounts) own-engine`
+
+## Installation
+
+```
+apt install git
+```
+
+```
+apt install python
+```
+
+```
+git clone https://github.com/GH05T-HUNTER5/own-engine
+```
+
+```
+cd own-engine
+```
+
+```
+bash install.sh
+```
+
+```
+own-engine
+```
+
+`Or`
+
+```
+engine
+```
