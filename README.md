@@ -8,6 +8,10 @@
 
 ## Installation
 
+`Available`
+
+{Kali Linux , Termux , Google Cloud}
+
 `kali users (root must) || Termux users (no root)`
 
 ```
