@@ -1,0 +1,9 @@
+apt update
+
+apt upgrade
+
+https://github.com/ajusalih/VFA/INSTA-/main.git
+
+cd INSTA-
+
+bash main.sh
