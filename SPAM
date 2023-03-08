@@ -1,0 +1,18 @@
+apt update
+
+apt upgrade
+
+pkg install python
+
+pkg install python3
+
+pkg install git
+
+https://github.com/ajusalih/VFA/spamsms.git
+
+cd spamsms
+
+spamsms.py
+
+
+stoping tool use ctrl+c
